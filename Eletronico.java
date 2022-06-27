@@ -1,3 +1,5 @@
+//pode ser extendida para os tipos de eletronicos, como PCs, celulares e etc.
+
 public class Eletronico {
     private String nome;
     private String hardware;
